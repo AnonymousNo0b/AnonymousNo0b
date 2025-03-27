@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+- I am an 18 year old boy looking for passionate projects to collaborate with
+- I'll soon start working on a group project with my classmates, to create VR environment for simulated practical sessions for anything.
+- I'm learning C# coding with my friends to better use Unity game engine to create 3-D VR environment.
+- I'm also learning the use of Arduino and how to code electronic circuits using it.
+
+- <ins>How to reach me</ins> : Contact me on Gmail " ***j.ansari7862@gmail.com*** "
+
 <!--
 **AnonymousNo0b/AnonymousNo0b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
